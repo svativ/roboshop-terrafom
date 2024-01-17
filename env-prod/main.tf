@@ -48,3 +48,5 @@ variable "components" {
     }
   }
 }
+variable = ["sg-041edd0364521caf3"]
+variable = "Z0018290WARH7MQ8A27A"
